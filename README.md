@@ -14,7 +14,7 @@
   </p>
 </h1>
 <p>
-  Esse é o cliente Web em ReactJS, para a api desenvolvida no <a href="https://github.com/lucascprazeres/conceitos-nodejs">desafio anterior</a>. Com suporte para criar, deletar e curtir os repositórios fake.
+  Esse é o cliente Web em ReactJS, para a api desenvolvida no <a href="https://github.com/RexMCM/desafio-conceitos-nodejs">desafio anterior</a>. Com suporte para criar, deletar e curtir os repositórios fake.
 </p>
 
 <h2 align="center">
