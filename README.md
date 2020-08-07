@@ -1,4 +1,4 @@
-![goStack](.github/gostack.png)
+
 <h1 align="center">
   🚀 Conceitos ReactJS 🚀
   <p align="center">
