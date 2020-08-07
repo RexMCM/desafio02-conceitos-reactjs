@@ -94,5 +94,5 @@
 <hr>
 
 <p align="center">
-  Feito com 💜 por <a href="https://www.linkedin.com/in/lucas-prazeres/">Lucas dos Prazeres</a>
+  Feito com 💜 por <a href="https://www.linkedin.com/in/matheus-cardoso-de-medeiros-8a3a84116/">Matheus Medeiros</a>
 </p>
